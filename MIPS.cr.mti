@@ -1,0 +1,92 @@
+C:/Users/User/Desktop/MIPS/Data-Memory.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Desktop/MIPS/Data-Memory.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module DMemBank
+
+Top level modules:
+	DMemBank
+
+} {} {}} C:/Users/User/Desktop/MIPS/Alu.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Desktop/MIPS/Alu.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/User/Desktop/MIPS/AluControl.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Desktop/MIPS/AluControl.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module aluControl
+
+Top level modules:
+	aluControl
+
+} {} {}} {C:/Users/User/Desktop/MIPS/Forwarding unit.v} {1 {vlog -work work -vopt -stats=none {C:/Users/User/Desktop/MIPS/Forwarding unit.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module forwarding_unit
+
+Top level modules:
+	forwarding_unit
+
+} {} {}} C:/Users/User/Desktop/MIPS/Inst-Memory.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Desktop/MIPS/Inst-Memory.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module IMemBank
+
+Top level modules:
+	IMemBank
+
+} {} {}} {C:/Users/User/Desktop/MIPS/Hazard detector.v} {1 {vlog -work work -vopt -stats=none {C:/Users/User/Desktop/MIPS/Hazard detector.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module hazard_detector
+
+Top level modules:
+	hazard_detector
+
+} {} {}} C:/Users/User/Desktop/MIPS/regfile.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Desktop/MIPS/regfile.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module RegFile
+
+Top level modules:
+	RegFile
+
+} {} {}} C:/Users/User/Desktop/MIPS/Control-Unit.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Desktop/MIPS/Control-Unit.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module ControlUnit
+
+Top level modules:
+	ControlUnit
+
+} {} {}} C:/Users/User/Desktop/MIPS/Datapath.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Desktop/MIPS/Datapath.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Datapath
+
+Top level modules:
+	Datapath
+
+} {} {}} C:/Users/User/Desktop/MIPS/Testbench.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Desktop/MIPS/Testbench.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} C:/Users/User/Desktop/MIPS/mux_3to1.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Desktop/MIPS/mux_3to1.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module mux_3to1
+
+Top level modules:
+	mux_3to1
+
+} {} {}} C:/Users/User/Desktop/MIPS/register.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Desktop/MIPS/register.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} C:/Users/User/Desktop/MIPS/Mux_2to1.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Desktop/MIPS/Mux_2to1.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module mux_2to1
+
+Top level modules:
+	mux_2to1
+
+} {} {}}

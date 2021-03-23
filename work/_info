@@ -1,0 +1,309 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_10.6d/examples
+T_opt
+!s110 1561743563
+V<j5zZTi4b1>35jYhE3IlG2
+04 9 4 work testbench fast 0
+=1-2cfda122353b-5d1650cb-19a-35f0
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.6d;65
+R0
+vALU
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 WGY>>0^U>_h6l9`^7bQHL3
+IOCzFbMU`<LEDHAhN<?hWh1
+Z3 dC:/Users/User/Desktop/MIPS
+w1560856122
+8C:/Users/User/Desktop/MIPS/Alu.v
+FC:/Users/User/Desktop/MIPS/Alu.v
+L0 2
+Z4 OL;L;10.6d;65
+Z5 !s108 1562042390.000000
+!s107 C:/Users/User/Desktop/MIPS/Alu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/User/Desktop/MIPS/Alu.v|
+!i113 0
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@a@l@u
+valuControl
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 0UmK2bkea5<m_@OhPO>^V0
+IG1aH1Z@hG3l4ma]^d5T9G0
+R3
+w1562001707
+8C:/Users/User/Desktop/MIPS/AluControl.v
+FC:/Users/User/Desktop/MIPS/AluControl.v
+L0 1
+R4
+R5
+!s107 C:/Users/User/Desktop/MIPS/AluControl.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/User/Desktop/MIPS/AluControl.v|
+!i113 0
+R6
+R1
+nalu@control
+vControlUnit
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 0lmGgHgC72::o[@3eBM]33
+IHG4NL_O]XoT:?YE?BS;;H1
+R3
+w1562003174
+8C:/Users/User/Desktop/MIPS/Control-Unit.v
+FC:/Users/User/Desktop/MIPS/Control-Unit.v
+L0 2
+R4
+Z7 !s108 1562042391.000000
+!s107 C:/Users/User/Desktop/MIPS/Control-Unit.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/User/Desktop/MIPS/Control-Unit.v|
+!i113 0
+R6
+R1
+n@control@unit
+vDatapath
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 jaR<@`nbMLbTWZ=PDSj<n1
+Icz8cfblS3Lz2T?4<Q4c9h0
+R3
+w1562005232
+8C:/Users/User/Desktop/MIPS/Datapath.v
+FC:/Users/User/Desktop/MIPS/Datapath.v
+L0 2
+R4
+!s108 1562042389.000000
+!s107 C:/Users/User/Desktop/MIPS/Datapath.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/User/Desktop/MIPS/Datapath.v|
+!i113 0
+R6
+R1
+n@datapath
+vDMemBank
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 bMGTFXE84GTU6OAP2AGU:2
+I^XK?3CTVYNEXD25A?gNQc1
+R3
+w1561978210
+8C:/Users/User/Desktop/MIPS/Data-Memory.v
+FC:/Users/User/Desktop/MIPS/Data-Memory.v
+L0 2
+R4
+R5
+!s107 C:/Users/User/Desktop/MIPS/Data-Memory.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/User/Desktop/MIPS/Data-Memory.v|
+!i113 0
+R6
+R1
+n@d@mem@bank
+vforwarding_unit
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 eR;f@]5]QzUbEQ1zZH;`T3
+I;F1@]0VijEY_`OOjIP=WM1
+R3
+w1561984696
+8C:/Users/User/Desktop/MIPS/Forwarding unit.v
+FC:/Users/User/Desktop/MIPS/Forwarding unit.v
+L0 2
+R4
+R7
+!s107 C:/Users/User/Desktop/MIPS/Forwarding unit.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/User/Desktop/MIPS/Forwarding unit.v|
+!i113 0
+R6
+R1
+vhazard_detector
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 Cm=GeT>Pf[9XFzRA5]cHR2
+Ide[iaTmTdX;Ah<9Bj5V@z2
+R3
+w1561984709
+8C:/Users/User/Desktop/MIPS/Hazard detector.v
+FC:/Users/User/Desktop/MIPS/Hazard detector.v
+L0 2
+R4
+Z8 !s108 1562042392.000000
+!s107 C:/Users/User/Desktop/MIPS/Hazard detector.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/User/Desktop/MIPS/Hazard detector.v|
+!i113 0
+R6
+R1
+vIMemBank
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 6<Ej19YLKUJS6:VJiE@W92
+ISF7`Q>3Gc5XFSY@AJ3nU73
+R3
+w1562003713
+8C:/Users/User/Desktop/MIPS/Inst-Memory.v
+FC:/Users/User/Desktop/MIPS/Inst-Memory.v
+L0 2
+R4
+R5
+!s107 C:/Users/User/Desktop/MIPS/Inst-Memory.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/User/Desktop/MIPS/Inst-Memory.v|
+!i113 0
+R6
+R1
+n@i@mem@bank
+vMIPS
+!s110 1562004703
+!i10b 1
+!s100 Oe6<JAcF7L_PBWJUgU@WP2
+IZn`nTZFzio<XL_67?97e^0
+R2
+R3
+w1561792428
+8C:/Users/User/Desktop/MIPS/MIPS.v
+FC:/Users/User/Desktop/MIPS/MIPS.v
+L0 3
+R4
+r1
+!s85 0
+31
+!s108 1562004703.000000
+!s107 C:/Users/User/Desktop/MIPS/MIPS.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/User/Desktop/MIPS/MIPS.v|
+!i113 0
+R6
+R1
+n@m@i@p@s
+vmux_2to1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 bg<A0>fkkOMfVdGPCXMRb3
+I1i8TO4C?=^A?MgnU4:nO02
+R3
+w1561727721
+8C:/Users/User/Desktop/MIPS/Mux_2to1.v
+FC:/Users/User/Desktop/MIPS/Mux_2to1.v
+L0 2
+R4
+R7
+!s107 C:/Users/User/Desktop/MIPS/Mux_2to1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/User/Desktop/MIPS/Mux_2to1.v|
+!i113 0
+R6
+R1
+vmux_3to1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 6_HNL`[cEL4Zh^AnEX0FD1
+Io7:VWkNcTGDIY?9lIk0[V0
+R3
+w1561966879
+8C:/Users/User/Desktop/MIPS/mux_3to1.v
+FC:/Users/User/Desktop/MIPS/mux_3to1.v
+L0 2
+R4
+R8
+!s107 C:/Users/User/Desktop/MIPS/mux_3to1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/User/Desktop/MIPS/mux_3to1.v|
+!i113 0
+R6
+R1
+vRegFile
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 _Ka0_e0H9:cMmi@Y[bOFd3
+IK[z?8PY?TPXToUWBWA_6U3
+R3
+w1562005129
+8C:/Users/User/Desktop/MIPS/regfile.v
+FC:/Users/User/Desktop/MIPS/regfile.v
+L0 1
+R4
+R5
+!s107 C:/Users/User/Desktop/MIPS/regfile.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/User/Desktop/MIPS/regfile.v|
+!i113 0
+R6
+R1
+n@reg@file
+vregister
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 z9M2U]7T`^Ym0fTbR>0j71
+IEK=7>SRF=>C]fHI4=lU::1
+R3
+w1562005144
+8C:/Users/User/Desktop/MIPS/register.v
+FC:/Users/User/Desktop/MIPS/register.v
+L0 1
+R4
+R7
+!s107 C:/Users/User/Desktop/MIPS/register.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/User/Desktop/MIPS/register.v|
+!i113 0
+R6
+R1
+vtestbench
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 h5[ZcZeIh>If0mizXRo613
+IB6z8BiLCmC8J_]`<X9LY@1
+R3
+w1562005042
+8C:/Users/User/Desktop/MIPS/Testbench.v
+FC:/Users/User/Desktop/MIPS/Testbench.v
+L0 2
+R4
+R7
+!s107 C:/Users/User/Desktop/MIPS/Testbench.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/User/Desktop/MIPS/Testbench.v|
+!i113 0
+R6
+R1
